@@ -1,7 +1,9 @@
-## Hi there 👋
+### Hi there 👋
+
+I'm [@rodrigocelmer](https://github.com/rodrigocelmer). I lost access to that account, so I created this one -sigh.
 
 <!--
-**rodrigocelmerv2/rodrigocelmerv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**theRealRodrigoCelmer/theRealRodrigoCelmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
